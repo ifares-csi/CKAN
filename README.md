@@ -12,6 +12,8 @@ This repository contains a reference to the following IEEE document:
 - **DOI:** 10.1109/ACCESS.2024.3462297
 
 You can access the document here: [IEEE Xplore Link](https://ieeexplore.ieee.org/document/10681070)
+## Source Code
+If you are interested in the source code related to this document, please contact me at [ifares.cs@gmail.com](mailto:ifares.cs@gmail.com).
 
 ## Abstract
 This paper proposes a novel Convolutional Kolmogorov-Arnold Network (CKAN) model for Intrusion Detection Systems (IDS) in an IoT environment. The CKAN model is developed by replacing the Multi-Layer Perceptrons (MLPs) layers with Kolmogorov-Arnold Networks (KANs) layers inside the Convolutional Neural Networks (CNN) architecture. The KANs give high performance compared to the MLPs layers with fewer parameters. The performance of the proposed CKAN model has been evaluated against other well-known Deep Learning (DL) models like CNN, recurrent neural networks (RNN), and Autoencoder. The evaluation process has been carried out with three benchmark datasets: NSL_KDD, which is treated as a standard IDS dataset; CICIoT2023; TONIoT, which are IoT IDS datasets. The results point out the superiority of the CKAN model over other DL models for both binary and multi-classification tasks as per the accuracy, precision, recall, and F1 score. The proposed CKAN model achieved accuracies of 98.71%, 99.22%, and 99.93% for binary classification, and 99.2%, 98.84%, and 93.3% for multi-classification on the NSL_KDD, CICIoT2023, and TONIoT datasets, respectively. The CKAN model gives better performance metrics with a smaller number of parameters compared to other DL models. In this way, our findings point out that KANs are promising for being a substitute for MLPs.
